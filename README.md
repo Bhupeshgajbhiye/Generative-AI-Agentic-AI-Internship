@@ -7,7 +7,7 @@
 <p align="center">
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=bhupesh-gajbhiye&label=Profile%20views&color=0e75b6&style=flat" />
 
 <!-- AI Developer & Programming -->
 <img src="https://img.shields.io/badge/AI%20Developer-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
