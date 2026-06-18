@@ -82,11 +82,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
 
-<img src="https://github.com/Bhupeshgajbhiye" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupeshgajbhiye&theme=tokyo-night" />
 <p align="center">
 <br><br>
 
-<img src="https://github.com/Bhupeshgajbhiye" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhupeshgajbhiye&theme=tokyonight" />
 
 <br><br>
 </p>
