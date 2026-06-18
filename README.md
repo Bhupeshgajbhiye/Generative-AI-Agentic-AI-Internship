@@ -37,9 +37,9 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 Currently exploring **Generative AI, Agentic workflows, and MCP**
 - 💡 Passionate about **building intelligent applications using LLMs & advanced AI architectures**
-- 💻 Check out my work on **[GitHub](https://github.com/YOUR_GITHUB_USERNAME)**
-- 📫 Reach me at **[Your Email Here]**
-- 📞 Contact: **[Your Phone Number Here]**
+- 💻 Check out my work on **[GitHub] https://github.com/Bhupeshgajbhiye**
+- 📫 Reach me at **bhupeshgajbhiye88@gmail.com**
+- 📞 Contact: **8459176208**
 
 ---
 
