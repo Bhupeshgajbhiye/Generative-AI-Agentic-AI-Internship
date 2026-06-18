@@ -86,7 +86,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="center">
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhupesh-gajbhiye&theme=tokyonight" />
+<img src="https://github.com/Bhupeshgajbhiye" />
 
 <br><br>
 </p>
