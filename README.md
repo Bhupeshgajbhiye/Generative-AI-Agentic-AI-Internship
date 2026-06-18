@@ -82,16 +82,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupesh-gajbhiye&theme=tokyo-night" />
 <p align="center">
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhupesh-gajbhiye&theme=tokyonight" />
 
 <br><br>
 </p>
-
-
 
 </p>
 
@@ -104,10 +102,10 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
 
 <p align="center">
- <b>Contact:</b> [Your Phone Number] <br>
- <b>Email:</b> [Your Email Here] <br>
+ <b>Contact:</b> 8459176208 <br>
+ <b>Email:</b> bhupeshgajbhiye88@gmail.com <br>
  <b>LinkedIn:</b>
-<a href="[Your LinkedIn Profile URL]" target="_blank">
+<a href="https://www.linkedin.com/in/bhupesh-gajbhiye/" target="_blank">
 Bhupesh Gajbhiye
 </a>
 </p>
