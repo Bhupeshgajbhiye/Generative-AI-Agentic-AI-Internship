@@ -82,7 +82,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhupesh-gajbhiye&theme=tokyo-night" />
+<img src="https://github.com/Bhupeshgajbhiye" />
 <p align="center">
 <br><br>
 
